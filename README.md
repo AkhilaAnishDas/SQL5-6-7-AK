@@ -1,15 +1,12 @@
-````markdown
 # SQL Querying, Aggregation & Joins — Assignment 5, 6 & 7
 
 ## Student Details
 
-| Details | Information |
-|---|---|
-| **Name** | **AKHILA ANISH DAS** |
-| **Roll No** | **150096725016** |
-| **Database** | **order_db** |
-| **Technology** | **PostgreSQL / SQL** |
-| **Assignments** | **Assignment 5, Assignment 6, Assignment 7** |
+**Name** | **AKHILA ANISH DAS** <br>
+**Roll No** | **150096725016** <br>
+**Database** | **order_db** <br>
+**Technology** | **PostgreSQL / SQL** <br>
+**Assignments** | **Assignment 5, Assignment 6, Assignment 7** 
 
 ---
 
